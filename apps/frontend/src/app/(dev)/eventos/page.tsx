@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-import { eventos } from "core";
-=======
 import { eventos } from "@/core";
->>>>>>> e1d2c3fdb8db39e2b06011915fc1a45802b01a3d
 import Image from "next/image";
 import Link from "next/link";
 import QRCode from "react-qr-code";

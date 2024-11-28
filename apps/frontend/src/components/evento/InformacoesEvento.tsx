@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-import { Evento } from "core";
-=======
 import { Evento } from "@/core";
->>>>>>> e1d2c3fdb8db39e2b06011915fc1a45802b01a3d
 import Informacao from "../shared/Informacao";
 
 export interface InformacoesEventoProps {

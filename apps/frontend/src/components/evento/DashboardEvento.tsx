@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-import { Convidado, Evento } from "core";
-=======
 import { Convidado, Evento } from "@/core";
->>>>>>> e1d2c3fdb8db39e2b06011915fc1a45802b01a3d
 import InformacoesEvento from "./InformacoesEvento";
 import AcessarViaQrCode from "./AcessarViaQrCode";
 import Estatistica from "../shared/Estatistica";
